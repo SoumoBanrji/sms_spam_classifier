@@ -17,6 +17,7 @@ This project aims to build a machine learning model that can predict whether a g
 ## Code Files
 
 * data folder: Contains the dataset used in this project.
+* saved_pkl folder: 
 * sms-spam-detection.ipynb: Jupyter notebook with the code for data preprocessing, model training, and evaluation.
 * app.py: Python script that deploys the model using Streamlit.
 
