@@ -14,3 +14,12 @@ This project aims to build a machine learning model that can predict whether a g
 * Building a logistic regression model using scikit-learn
 * Deploying the model using Streamlit
 
+## Code Files
+
+* data folder: Contains the dataset used in this project.
+* sms-spam-detection.ipynb: Jupyter notebook with the code for data preprocessing, model training, and evaluation.
+* app.py: Python script that deploys the model using Streamlit.
+
+
+## Model Performance
+
