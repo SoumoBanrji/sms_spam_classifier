@@ -35,10 +35,10 @@ def transform_text(text):
     return " ".join(y)
 
 
-with open('vectorizer.pkl','rb') as f:
+with open('saved_pkl/vectorizer.pkl','rb') as f:
     tfidf = pickle.load(f)
 
-with open('model.pkl','rb') as f:
+with open('saved_pkl/model.pkl','rb') as f:
     model = pickle.load(f)
 
 
